@@ -20,11 +20,13 @@
     <h2>
       Adittional skills
     </h2>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,aws,docker,mysql,supabase,wordpress,bitbucket,css,bootstrap,notion,vue,react/>
-    </a>
-            <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=linux,debian,md,py,django,fastapi,nodejs,postman,vscode,php,laravel,dart,flutter"/>
-    </a>
+    <p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,aws,docker,mysql,supabase,wordpress,bitbucket,css,bootstrap,notion,vue,react/>
+      </a>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=linux,debian,md,py,django,fastapi,nodejs,postman,vscode,php,laravel,dart,flutter"/>
+      </a>
     </p>
+  </p>
 </div>
