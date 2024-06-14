@@ -13,7 +13,7 @@
       Main skills
     </h2>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=postgres,supabase,prisma,github,html,tailwind,npm,pnpm,js,ts,next,nest,angular" />
+      <img src="https://skillicons.dev/icons?i=postgres,prisma,github,html,tailwind,npm,pnpm,js,ts,next,nest,angular" />
     </a>
   </p>
   <p>
@@ -21,7 +21,7 @@
       Adittional skills
     </h2>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,aws,docker,mysql,prisma,wordpress,bitbucket,css,bootstrap,notion,vue,react,linux,debian,md,py,django,fastapi,nodejs,postman,vscode,php,laravel,dart,flutter" />
+      <img src="https://skillicons.dev/icons?i=git,aws,docker,mysql,supabase,wordpress,bitbucket,css,bootstrap,notion,vue,react,linux,debian,md,py,django,fastapi,nodejs,postman,vscode,php,laravel,dart,flutter" />
     </a>
   </p>
 </div>
